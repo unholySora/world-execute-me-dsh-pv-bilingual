@@ -73,6 +73,7 @@ python build.py all --4k       # 另出 3840×2160 版
 | `film/third_party_references/` | 鲸鱼娘立绘和表情（CC BY-NC-SA 4.0） |
 | `film/vendor/` | dsh 前端（`dsh-web-frontend`）和 Cordis 组件包（`dsh-client-ui-cordis`）的 CSS 和 JS（MIT，DeepSeek） |
 | `docs/` | [制作原理](docs/HOW_IT_WORKS.md)、[字体](docs/FONTS.md)、[60 帧导出](docs/60FPS_EXPORT.md) |
+| `subtitles-zh/` | 中文译文字幕版：两支同人成片（共享框体版、双框体版）与叠加脚本、逐句数据、实测曲线 |
 
 ## 许可
 
